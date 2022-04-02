@@ -1,4 +1,4 @@
-# Project 3 - *Crowstagra*
+# Project 3 - *Crowstagram*
 
 **Name of your app** is a photo sharing app similar to Instagram but using Parse as its backend.
 
