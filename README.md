@@ -37,6 +37,7 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+![Crowstagram](https://user-images.githubusercontent.com/98653421/161471397-289ccb2c-3b80-4489-96a7-c1370571d811.gif)
 
 ## Notes
 
